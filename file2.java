@@ -1,3 +1,0 @@
-{
-some java code
-}
